@@ -8,7 +8,7 @@ This repository is the website. GitHub Pages serves `index.html` from the `main`
 
 1. Open `index.html` in this repository and click the pencil icon (Edit).
 2. Change the text between the tags, for example a project description or a course name.
-3. Click **Commit changes**. The live site updates in about a minute or two.
+3. Click **Commit changes...** (top right), then **Commit changes** in the box that opens. The live site usually updates within a few minutes (GitHub says it can take up to 10). Refresh the page to see it.
 
 ## Add a course or project
 
